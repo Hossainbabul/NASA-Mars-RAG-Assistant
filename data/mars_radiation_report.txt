@@ -1,0 +1,26 @@
+DOCUMENT_ID: NASA-TM-2023-MARS-001
+TITLE: Radiation Shielding Strategies for Human Missions to Mars
+SECTION: 1.0 Galactic Cosmic Rays (GCR)
+Cosmic radiation represents one of the most critical health risks for astronauts traveling to Mars. Unshielded exposure to Galactic Cosmic Rays (GCR) can result in acute radiation sickness, cumulative cancer risk, and central nervous system damage. Passive shielding using hydrogen-dense materials such as polyethylene and water storage walls provides the highest mass-efficiency for mitigating high-Z and high-energy (HZE) ions.
+
+SECTION: 2.0 Habitat Design and Regolith Optimization
+Upon arrival at the Martian surface, utilizing in-situ resources is vital. Martian regolith can be processed into protective blocks or used as backfill over inflatable habitation modules. A minimum thickness of 3 to 5 meters of compressed Martian regolith is required to lower annual ionizing radiation exposure below NASA's career permissible exposure limits (PEL) of 600 mSv.
+
+SECTION: 3.0 Transit Duration Constraints
+Using conventional chemical propulsion, transit times to Mars range between 6 to 9 months each way. Nuclear Thermal Propulsion (NTP) is evaluated as a potential risk-reduction technology capable of shortening transit times to roughly 100 days, substantially minimizing overall GCR exposure for the crew during flight.
+
+DOCUMENT_ID: NASA-SP-2024-MARS-ECLSS
+TITLE: Environmental Control and Life Support Systems for Mars Transit & Surface Habitation
+SECTION: 4.0 Oxygen Generation and Sabatier Subsystems
+Continuous atmosphere revitalization requires high-efficiency oxygen reclamation. The Mars Oxygen ISRU Experiment (MOXIE) demonstrated solid oxide electrolysis to extract O2 from atmospheric carbon dioxide (CO2) at an operational efficiency exceeding 98%. Onboard habitat air loops utilize a Sabatier reactor coupled with water electrolysis to recover over 85% of consumable oxygen from exhaled metabolic CO2.
+
+SECTION: 5.0 Thermal Control and Radiator Arrays
+Martian surface temperature extremes (-125°C to +20°C) require dual-loop pumped fluid thermal control systems (TCS). Low-toxicity propylene glycol-water loops circulate heat from avionics and human quarters to deployable titanium-water heat pipe radiators, maintaining interior habitat temperature at nominal 21°C ± 2°C.
+
+DOCUMENT_ID: NASA-TP-2023-MARS-EDL
+TITLE: Entry, Descent, and Landing (EDL) Architecture for Crewed Mars Vehicles
+SECTION: 6.0 Hypersonic Aerodynamic Deceleration
+Due to the low atmospheric density of Mars (surface pressure ~610 Pa, approximately 0.6% of Earth's), landed masses exceeding 20 metric tons cannot rely on parachutes alone. Entry architectures incorporate deployable Hypersonic Inflatable Aerodynamic Decelerators (HIAD) measuring 16 meters in diameter with flexible thermal protection systems (FTPS) rated for heat flux up to 75 W/cm².
+
+SECTION: 7.0 Supersonic Retropropulsion (SRP)
+Transition from hypersonic entry to terminal descent occurs between Mach 2.5 and Mach 1.5 at altitudes of 8 to 12 kilometers. Deep-throttling LOX/Methane (liquid oxygen/methane) engines fire into the oncoming supersonic freestream to decelerate the lander prior to terrain-relative navigation touchdown hazard detection.

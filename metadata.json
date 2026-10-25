@@ -1,0 +1,6 @@
+{
+  "name": "NASA Mars Mission Research Assistant",
+  "description": "Production-grade RAG system with Hybrid Retrieval (BM25 + Dense Semantic Vector), Strict Guardrails against hallucination, and Exact Technical Citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
